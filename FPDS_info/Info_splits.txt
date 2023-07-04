@@ -1,0 +1,17 @@
+-----Training-----
+Split:split01, N_Frames:0800, N_FallenPersons:0556, N_NonFallenPersons:0358
+Split:split02, N_Frames:0646, N_FallenPersons:0449, N_NonFallenPersons:0169
+Split:split03, N_Frames:0732, N_FallenPersons:0366, N_NonFallenPersons:0352
+Split:split10, N_Frames:0416, N_FallenPersons:0282, N_NonFallenPersons:0126
+Split:split11, N_Frames:2214, N_FallenPersons:2214, N_NonFallenPersons:0000
+
+-----Validation-----
+Split:split12, N_Frames:0614, N_FallenPersons:0614, N_NonFallenPersons:0004
+Split:split13, N_Frames:0587, N_FallenPersons:0151, N_NonFallenPersons:0436
+
+-----Test-----
+Split:split04, N_Frames:0117, N_FallenPersons:0104, N_NonFallenPersons:0003
+Split:split05, N_Frames:0553, N_FallenPersons:0049, N_NonFallenPersons:0704
+Split:split06, N_Frames:0042, N_FallenPersons:0042, N_NonFallenPersons:0000
+Split:split07, N_Frames:0051, N_FallenPersons:0015, N_NonFallenPersons:0039
+Split:split08, N_Frames:0210, N_FallenPersons:0181, N_NonFallenPersons:0084
